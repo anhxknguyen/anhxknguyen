@@ -7,7 +7,7 @@
         🃏 I can do card magic tricks..<br><br>
         Coding is an outlet for me to express creativity and create meaningful software products that solve real-world problems.<br>
     </div>
-    <img style="align-self: center;" src="https://github.com/user-attachments/assets/4de296d0-088c-4a54-a5b9-066cde84866a" alt="monkey-pfp" width="500" />
+    <img style="align-self: center;" src="https://github.com/user-attachments/assets/4de296d0-088c-4a54-a5b9-066cde84866a" alt="monkey-pfp" width="200" />
 </div>
 
 # 💻 Tech Stack:
