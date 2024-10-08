@@ -1,1 +1,5 @@
-Hello! My name is Bon Nguyen, and I am a rising junior at the University of Rochester.
+### Hi! I'm Bon 👋
+
+
+
+Coding is an outlet for me to not only express creativity but also create meaningful software products that solve real-world problems.
